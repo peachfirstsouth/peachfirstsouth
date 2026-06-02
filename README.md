@@ -1,8 +1,1 @@
-<style>
-img.pixel-art {
-  image-rendering: -moz-crisp-edges; /* For older Firefox versions */
-  image-rendering: pixelated;        /* Standard for modern browsers */
-}
-</style>
-
-<img class="pixel-art" src="./Sprite-0001.gif" width="1200" alt="Welcome Animation">
+<img style="image-rendering: pixelated" src="./Sprite-0001.gif" width="1200" alt="Welcome Animation">
