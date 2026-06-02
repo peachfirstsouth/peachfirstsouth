@@ -1,1 +1,1 @@
-![My Welcome Animation](Sprite-0001.gif)
+<img src"=./Sprite-0001.gif">
