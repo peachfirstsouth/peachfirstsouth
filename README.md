@@ -1,1 +1,1 @@
-![](./Sprite-0001.gif)
+![My Welcome Animation](Sprite-0001.gif)
