@@ -67,7 +67,7 @@
 
       <div class="arcade-card">
         <!-- Your pixel art GIF file -->
-        <img class="pixel-gif" src="./Sprite-0001.gif" alt="Pixel Sprite" />
+        <img class="pixel-gif" src="Sprite-0001.gif" alt="Pixel Sprite" />
         
         <div class="ui-content">
           <div class="status-bar">👾 PLAYER 1 • HP 99/99</div>
