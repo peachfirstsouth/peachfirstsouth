@@ -1,1 +1,6 @@
-<img src="./gif.svg" width="100%" alt="Pixel Art Component" />
+<img 
+  src="./Sprite-0001.gif" 
+  width="500" 
+  style="image-rendering: pixelated; image-rendering: crisp-edges;" 
+  alt="Pixel Art GIF"
+>
