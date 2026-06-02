@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./profile.gif" alt="Pixel Art GIF" align="center" >
+  <img src="./profile.gif" alt="Pixel Art GIF" align="center">
+  <h2>HELLO I AM SOUTH</h2>
+  <h4>WELCOME TO MY GITHUB</h4>
 </div>
 
 <p align="center">
