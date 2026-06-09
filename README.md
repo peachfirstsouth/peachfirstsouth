@@ -6,3 +6,16 @@
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zkwht2v4tujmcpfzglowbujhoy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="40%">
 </p>
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=peachfirstsouth&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=peachfirstsouth&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=peachfirstsouth&show_icons=true" />
+</picture>
